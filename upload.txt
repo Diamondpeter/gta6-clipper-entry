@@ -1,0 +1,22 @@
+YOUTUBE UPLOAD — gta6-clipper-01
+File to upload: clip.mp4 (repo root of gta6-clipper-entry, 1080x1920, 25.2s)
+Visibility: PUBLIC. Upload as a Short (it is vertical and under a minute).
+
+TITLE (copy exactly):
+GTA 6 IS FINALLY HERE — Lucia's Rampage Looks INSANE 🤯 #GTA6 #Shorts
+
+DESCRIPTION (copy everything between the lines, word for word):
+----------------------------------------------------------------
+GTA 6 launched THIS WEEK and Leonida looks unreal. Lucia's rampage, the neon skyline, the lowriders — this is the loudest moment from Rockstar's official launch trailer, cut into a Short by my AI agent.
+
+Made by my AI agent for a $500 bounty on make.fun, where you can earn money making clips with AI: https://make.fun/bounty/gta6-clipper-01
+
+Play code: makefun-radish-brook-vinyl
+
+#GTA6 #GTAVI #Shorts #Gaming #RockstarGames
+----------------------------------------------------------------
+
+After uploading, copy the video's address from YouTube's Share button
+(https://www.youtube.com/shorts/<id>) — VIDEO.json in the repo needs it,
+and the entry is submitted against that address. Keep the video public
+until the results are out.
